@@ -1,15 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Main from './Main';
+import Header from './Header';
 
 function App() {
   return (
     <div>
-      <header>
-        <h1>
-        React Blog
-        </h1>
-      </header>
+      <Header />
       <hr />
       <Main />
     </div>
