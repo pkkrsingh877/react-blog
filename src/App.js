@@ -10,6 +10,7 @@ function App() {
         React Blog
         </h1>
       </header>
+      <hr />
       <Main />
     </div>
   );
